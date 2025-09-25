@@ -1621,58 +1621,22 @@
 		(uuid "4b34379b-7e56-4772-bb18-a8a61df76bcf")
 	)
 	(junction
+		(at 184.4 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7146c260-8d92-4c36-8ba5-47b83f51a462")
+	)
+	(junction
 		(at 125.73 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78a6eb4a-d8ce-4eab-ad14-ff6e59c1fc41")
 	)
 	(junction
-		(at 184.4 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7eb47df-8a38-4e11-9e4a-f35ba2753b49")
-	)
-	(junction
 		(at 154.94 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4b925c7-436a-4021-886a-0a5d677d1f89")
-	)
-	(junction
-		(at 184.4 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb649296-fc2e-4200-b0b4-7ee16e6f123c")
-	)
-	(wire
-		(pts
-			(xy 184.4 53.34) (xy 190.5 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cd530ae-d114-43b8-8bd9-ccf15c8f82fe")
-	)
-	(wire
-		(pts
-			(xy 187.96 48.26) (xy 187.96 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15484b54-195e-4851-95e6-80ba6e44330b")
-	)
-	(wire
-		(pts
-			(xy 187.96 58.42) (xy 173.99 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1562dbba-e407-4e1c-baed-6e56125635fc")
 	)
 	(wire
 		(pts
@@ -1696,6 +1660,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 48.26) (xy 173.99 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bfe3f69-1625-4273-895b-61e60add1e10")
+	)
+	(wire
+		(pts
 			(xy 165.1 107.95) (xy 176.53 107.95)
 		)
 		(stroke
@@ -1703,16 +1677,6 @@
 			(type default)
 		)
 		(uuid "2d87d5f7-b339-43e6-a69d-dfd9ca7a8177")
-	)
-	(wire
-		(pts
-			(xy 184.15 48.26) (xy 184.4 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "373794ce-b65a-4c03-9bd3-23304a525777")
 	)
 	(wire
 		(pts
@@ -1766,6 +1730,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.4 53.34) (xy 191.77 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70f17475-be95-4ed6-9cbd-06970f437067")
+	)
+	(wire
+		(pts
 			(xy 154.94 121.92) (xy 154.94 127)
 		)
 		(stroke
@@ -1796,6 +1770,36 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 58.42) (xy 186.69 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "855c4668-bbe9-448b-ac57-5b916b7d6f75")
+	)
+	(wire
+		(pts
+			(xy 184.4 48.26) (xy 186.69 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d71a9a3-e7cd-4f2c-8a06-e37a877ae771")
+	)
+	(wire
+		(pts
+			(xy 173.99 58.42) (xy 186.69 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d54c2f0-4bd8-47fa-9345-677a0479b415")
+	)
+	(wire
+		(pts
 			(xy 128.27 115.57) (xy 132.08 115.57)
 		)
 		(stroke
@@ -1803,16 +1807,6 @@
 			(type default)
 		)
 		(uuid "a4deda21-ce1b-4131-9bf3-634cdbb3bcd4")
-	)
-	(wire
-		(pts
-			(xy 184.4 48.26) (xy 187.96 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acdd4ac6-b39b-458d-a53f-74201161922c")
 	)
 	(wire
 		(pts
@@ -1826,13 +1820,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 48.26) (xy 173.99 48.26)
+			(xy 173.99 53.34) (xy 173.99 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b83f63a3-e3de-46f2-bc03-171a3c2d7a3b")
+		(uuid "d1028681-d979-430e-a48a-48a0e76c9edf")
 	)
 	(wire
 		(pts
@@ -1856,6 +1850,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 48.26) (xy 184.4 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1586de6-8bbf-453e-8abf-dd4d79a17007")
+	)
+	(wire
+		(pts
 			(xy 161.29 119.38) (xy 165.1 119.38)
 		)
 		(stroke
@@ -1863,26 +1867,6 @@
 			(type default)
 		)
 		(uuid "e617a7b0-7d82-4106-a3b9-96bfa98bcebd")
-	)
-	(wire
-		(pts
-			(xy 173.99 53.34) (xy 173.99 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e63354c3-92ed-4bb7-84fe-dcfdbb1830b9")
-	)
-	(wire
-		(pts
-			(xy 184.15 53.34) (xy 184.4 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "edc34f4c-e256-4efc-89f4-a2b07c5f55c5")
 	)
 	(wire
 		(pts
@@ -2048,7 +2032,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 190.5 53.34 270)
+		(at 166.37 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2057,7 +2041,7 @@
 		(fields_autoplaced yes)
 		(uuid "368d7e8f-f151-4ed1-9bc0-35753729cb6f")
 		(property "Reference" "#PWR08"
-			(at 186.69 53.34 0)
+			(at 170.18 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2066,16 +2050,15 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 194.31 53.3399 90)
+			(at 165.1 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 53.34 0)
+			(at 166.37 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2084,7 +2067,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 53.34 0)
+			(at 166.37 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2093,7 +2076,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 190.5 53.34 0)
+			(at 166.37 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2105,7 +2088,7 @@
 			(uuid "fbeccde0-7436-40d5-983c-4078b2e0ea3a")
 		)
 		(instances
-			(project ""
+			(project "555Timer"
 				(path "/60aa5085-bd06-4296-8738-d809f068041c"
 					(reference "#PWR08")
 					(unit 1)
@@ -2191,7 +2174,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 48.26 270)
+		(at 191.77 53.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2200,7 +2183,7 @@
 		(fields_autoplaced yes)
 		(uuid "48891b11-9112-4ab6-b651-a23290ba21de")
 		(property "Reference" "#PWR07"
-			(at 162.56 48.26 0)
+			(at 198.12 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2209,7 +2192,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 48.2599 90)
+			(at 195.58 53.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2218,7 +2201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 48.26 0)
+			(at 191.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2227,7 +2210,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 48.26 0)
+			(at 191.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2236,7 +2219,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 48.26 0)
+			(at 191.77 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2248,7 +2231,7 @@
 			(uuid "1f9ea7c9-dc22-48be-abe5-842bfe23b534")
 		)
 		(instances
-			(project ""
+			(project "555Timer"
 				(path "/60aa5085-bd06-4296-8738-d809f068041c"
 					(reference "#PWR07")
 					(unit 1)
